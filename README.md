@@ -16,13 +16,13 @@ A cute and user-friendly web app that recognizes handwritten digits using a Conv
 * **HTML / CSS / JavaScript** (frontend)
 * **PIL / NumPy** (image processing)
 
-## 📸 Screenshots
-
-![UI Screenshot](ui_screenshot.png)
-
 ## 🎨 UI Preview
 
 A pastel-themed canvas with clear controls and minimal distractions.
+
+<p align="center">
+  <img src="ui_screenshot.png" alt="UI Screenshot" width="300"/>
+</p>
 
 ## 📄 License
 
