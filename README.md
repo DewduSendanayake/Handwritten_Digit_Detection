@@ -18,7 +18,7 @@ A cute and user-friendly web app that recognizes handwritten digits using a Conv
 
 ## 📸 Screenshots
 
-![UI Screenshot](assets/ui_screenshot.png)
+![UI Screenshot](ui_screenshot.png)
 
 ## 🎨 UI Preview
 
