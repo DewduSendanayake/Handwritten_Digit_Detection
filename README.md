@@ -21,7 +21,7 @@ A cute and user-friendly web app that recognizes handwritten digits using a Conv
 A pastel-themed canvas with clear controls and minimal distractions.
 
 <p align="center">
-  <img src="ui_screenshot.png" alt="UI Screenshot" width="300"/>
+  <img src="ui_screenshot.png" alt="UI Screenshot" width="200"/>
 </p>
 
 ## 📄 License
