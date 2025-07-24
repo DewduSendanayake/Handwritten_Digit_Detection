@@ -1,4 +1,4 @@
-# MNIST Digit Recognizer
+# MNIST Digit Recognizer 🔎
 
 A cute and user-friendly web app that recognizes handwritten digits using a Convolutional Neural Network (CNN) trained on the MNIST dataset. Built with **TensorFlow**, **Flask**, and **JavaScript**, this app allows users to draw digits on a canvas and get instant predictions from the ML model. The front-end features a pastel-themed interface for a more delightful experience.
 
